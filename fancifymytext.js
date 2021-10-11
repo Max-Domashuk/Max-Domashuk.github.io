@@ -1,6 +1,6 @@
 
 function testAlert(){
-alert("Hello, world!");
+alert("Text is now bigger!");
 }
 
 function fancyAlert(){
